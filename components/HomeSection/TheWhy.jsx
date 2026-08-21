@@ -215,7 +215,7 @@ export default function TheWhy() {
             }}
           >
             <img
-              src="https://4kwallpapers.com/images/walls/thumbs_2t/25454.jpg"
+              src="Whyimg.jpg"
               alt="The Problem"
               style={{
                 width: '100%',

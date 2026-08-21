@@ -139,7 +139,7 @@ export default function CommunityStats() {
           }}
         >
           <img
-            src="https://4kwallpapers.com/images/walls/thumbs_2t/24472.png"
+            src="./Aboutcommunity.jpg"
             alt="Community Background"
             style={{
               width: '100%',

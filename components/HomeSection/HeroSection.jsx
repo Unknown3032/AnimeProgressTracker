@@ -165,7 +165,7 @@ export default function HeroSection() {
       <div className="absolute inset-0 z-0">
         <div
           ref={imageRef}
-          className="absolute inset-0"
+          className="absolute inset-0 grayscale-100"
           style={{
             width: '100%',
             height: '100%',
@@ -173,7 +173,7 @@ export default function HeroSection() {
           }}
         >
           <img
-            src="https://4kwallpapers.com/images/walls/thumbs_2t/24474.jpg"
+            src="./Hero.jpg"
             alt="Background"
             style={{
               width: '100%',
